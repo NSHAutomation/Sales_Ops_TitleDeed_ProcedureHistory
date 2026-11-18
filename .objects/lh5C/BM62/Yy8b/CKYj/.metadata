@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Go to Home Page",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "CKYjSctou06wEF9M93R6ew",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/CKYjSctou06wEF9M93R6ew",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-04T07:40:29.6759684Z",
+  "Updated": "2026-11-04T07:40:29.6759684Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

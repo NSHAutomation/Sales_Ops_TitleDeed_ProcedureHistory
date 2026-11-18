@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="02zfIKRAvUqDFVyViaBAog" Reference="8BpuFSLbfU-l7uzrMDPDhA/luJmJ3SCFUe_GJnzqfVUcQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="oqood2.dubailand.gov.ae/en/services" DesignTimeRectangle="16, 539, 240, 32" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Services' tag='A' /&gt;" Guid="beb326db-12f3-444f-a232-45b44fa5b58f" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="fbc0c824c4ffb1d3843a6bbdf7abfb46.jpg" xmlns="">0G4I1xilmnkWd7pQR79cHbA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

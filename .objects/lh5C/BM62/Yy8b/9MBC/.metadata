@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Table-DLD Building Names",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "9MBC7Ka2pkqgwm4kDOdOyA",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/9MBC7Ka2pkqgwm4kDOdOyA",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-02T11:24:29.5150846Z",
+  "Updated": "2026-11-02T11:24:49.833979Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

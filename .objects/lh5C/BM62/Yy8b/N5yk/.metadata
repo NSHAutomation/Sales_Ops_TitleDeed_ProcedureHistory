@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Menu",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "N5ykHg-LEkedEOcSmfBmhg",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/N5ykHg-LEkedEOcSmfBmhg",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-05T06:56:32.9935096Z",
+  "Updated": "2026-11-05T06:56:55.4877708Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

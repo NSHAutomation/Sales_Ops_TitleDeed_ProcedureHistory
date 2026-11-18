@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="O4bw57I2O0S0Z-7C3wOtsg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama.my.salesforce.com/001VH000007HSyd" DesignTimeRectangle="1308, 782, 565, 14" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl class='detailList' matching:class='fuzzy' fuzzylevel:class='0.0' tag='TABLE' /&gt;&lt;webctrl tag='DIV' aaname='*' /&gt;" Guid="4442659f-2a2e-4ba2-9968-8f8f301476b6" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Salesforce*' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="965, 779, 333, 21" ElementType="Text" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl aaname='Passport Expiry Date' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' tag='TD' check:innerText='Passport Expiry Date' /&gt;" Guid="5d38b035-f562-439a-b7ae-7cae092eafad" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4fd07d824949f7aaaba2629d2aec98c1.jpg" xmlns="">0HwDUVBPus0GDBYlyFSG40A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

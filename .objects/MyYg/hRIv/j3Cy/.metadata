@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Edge Salesforce-Create Milestone",
+  "Type": "Screen",
+  "Id": "j3CyeEKoXkCUqBO6j0KGTw",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/j3CyeEKoXkCUqBO6j0KGTw",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/hRIvlgiIkkCoapULqGU6PA",
+  "Created": "2026-11-04T10:21:09.589326Z",
+  "Updated": "2026-11-04T10:21:45.9753548Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

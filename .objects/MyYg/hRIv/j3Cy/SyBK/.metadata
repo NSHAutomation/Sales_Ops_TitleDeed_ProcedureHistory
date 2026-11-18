@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Save Upload",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "SyBKGJ4H1UyMM8wal7jkMw",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/SyBKGJ4H1UyMM8wal7jkMw",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/j3CyeEKoXkCUqBO6j0KGTw",
+  "Created": "2026-11-04T10:23:51.3563603Z",
+  "Updated": "2026-11-04T10:23:51.3563603Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

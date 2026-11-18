@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mqNzh_f--0WTgyNaMBFgpg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="oqood2.dubailand.gov.ae/en/services/workflows/complete-delayed-sale" DesignTimeRectangle="384, 840, 1457, 48" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='I confirm that all information and documents submitted are accurate, and I accept full legal and financial responsibility for this submission. The Department of Lands and Properties bears no responsibility for any incorrect information.' tag='LABEL' /&gt;" Guid="ce2a461d-28e4-47ed-9713-92fa1372180d" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="876679ea62af64c7d17979576d8eb73e.jpg" xmlns="">0JaCzD2QCtE2R2AhF71gZBg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

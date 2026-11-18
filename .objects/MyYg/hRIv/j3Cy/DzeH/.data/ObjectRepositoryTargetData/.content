@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mhwYUBYMwUSX4Z3wazwzeA" Reference="8BpuFSLbfU-l7uzrMDPDhA/DzeH8Bm85kCPG6GKl-zd1g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama--c.vf.force.com/apex/CreateMilestone" DesignTimeRectangle="1310, 490, 300, 19" ElementType="DropDown" ElementVisibilityArgument="Interactive" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl tag='TABLE' aaname='Milestone Status *Milestone Date Responsibility Comments' /&gt;&lt;webctrl tag='SELECT' aaname='Status' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="d1db93d5-dda4-4683-80d8-29c610577bdf" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Salesforce - Unlimited Edition*' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target DesignTimeRectangle="1257, 490, 33, 12" ElementType="Text" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl tag='TABLE' aaname='Milestone Status *Milestone Date Responsibility Comments' /&gt;&lt;webctrl aaname='Status' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' tag='LABEL' check:innerText='Status' /&gt;" Guid="d8142bc7-777f-4977-9e5c-ea3dae10a574" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f0ff08172130115ec31a559d5b2fdfa6.jpg" xmlns="">0XBrP3qSYOki-gTcCfRPkDA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

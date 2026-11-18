@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Mouse Scroll-Joint Owner Table",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "QKSnTC4os0-5dpHPq5R8wA",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/QKSnTC4os0-5dpHPq5R8wA",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Wd_itKmetEiCWw_nTkwRAA",
+  "Created": "2026-11-02T07:49:14.3008164Z",
+  "Updated": "2026-11-04T09:17:25.7519847Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

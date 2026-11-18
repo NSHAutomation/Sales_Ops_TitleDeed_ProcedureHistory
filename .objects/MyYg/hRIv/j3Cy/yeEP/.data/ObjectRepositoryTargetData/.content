@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AfZa_3K3skC3943e33SV3Q" Reference="8BpuFSLbfU-l7uzrMDPDhA/yeEPLyMW3ke95stOlY9kTw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama--c.vf.force.com/apex/CreateMilestone" DesignTimeRectangle="747, 490, 88, 26" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd title='&amp;amp;Open' aaname='Open' cls='Button' /&gt;" Guid="c8c5fb70-676b-4c79-a0c1-74f58f7c409e" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='*' title='Open' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="92cb42755ce2e94dfd7d63489e64fbe9.jpg" xmlns="">0BBV94auEUEuC3mVVV62GvA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

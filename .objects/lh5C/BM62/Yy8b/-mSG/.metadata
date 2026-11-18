@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Discard",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "-mSGsRBEIUKXWAQid0Ll3g",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/-mSGsRBEIUKXWAQid0Ll3g",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-03T10:29:18.2344848Z",
+  "Updated": "2026-11-03T10:29:18.2344848Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

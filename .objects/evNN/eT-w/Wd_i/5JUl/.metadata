@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Click-Approval Status",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "5JUlAg6SrU2B7FY97B327A",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/5JUlAg6SrU2B7FY97B327A",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Wd_itKmetEiCWw_nTkwRAA",
+  "Created": "2026-11-04T08:10:16.9454346Z",
+  "Updated": "2026-11-04T11:02:50.547952Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

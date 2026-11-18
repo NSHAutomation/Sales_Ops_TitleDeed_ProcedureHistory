@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kdRd2FhZOU6Lge68Kfj_KA" Reference="8BpuFSLbfU-l7uzrMDPDhA/nD2amMwQWEup5guiiCXtsw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama.my.salesforce.com/006Hq00001WnvhPIAR" DesignTimeRectangle="61, 694, 66, 14" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl role='editable text' text='Upload here' /&gt;" Guid="c020ea9f-3219-4980-bd68-b8e86d46f9c8" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='msedge.exe' title='*Salesforce - Unlimited Edition*' /&gt;" SearchSteps="Selector" SelectionStrategy="AA" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d7027ffc6b5a1cde602a1a82c0b985db.jpg" xmlns="">0Qp-3rQRT7E-RHLTRmGkFKg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

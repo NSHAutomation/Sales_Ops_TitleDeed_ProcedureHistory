@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Back to procedure",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "QbMkwnFyXEKO-sOVZVU26w",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/QbMkwnFyXEKO-sOVZVU26w",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-03T11:08:38.6190217Z",
+  "Updated": "2026-11-03T11:08:38.6190217Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Window Operation - Show window",
+  "Type": "Element",
+  "Id": "3hB6tIcBHUmncxbT8rVEeg",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/3hB6tIcBHUmncxbT8rVEeg",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/j3CyeEKoXkCUqBO6j0KGTw",
+  "Created": "2026-11-04T10:39:13.7814735Z",
+  "Updated": "2026-11-04T10:39:13.7814735Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

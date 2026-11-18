@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NA0Xf9je70C5grxtNomDGw" Reference="8BpuFSLbfU-l7uzrMDPDhA/T6qfwtCAE069dqVyzz9c4w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama.my.salesforce.com/006VH000005AKDtYAO" DesignTimeRectangle="307, 469, 109, 14" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="[String.Format(&quot;&lt;webctrl aaname='Action Joint Owner # Joint Owner Party ID Nationality Joint Owner Email Created By Created Date*' class='list' tag='TABLE' /&gt;&lt;webctrl aaname='{0}' tag='A' /&gt;&quot;,out_Dt_JointOwner.Rows(0)(&quot;Joint Owner&quot;).ToString.Trim)]" Guid="facd78c7-ecb2-4fa5-8e4b-dae0965c5675" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Salesforce*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="e4894621df102144e1606dd17c5e9227.jpg" xmlns="">0QUx83iY_OU22MWzTbZI4NA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

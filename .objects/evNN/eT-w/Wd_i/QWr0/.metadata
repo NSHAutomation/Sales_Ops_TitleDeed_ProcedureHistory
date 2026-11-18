@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Joint Owner Passport Expiry Date",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "QWr0P86v90i9pI2LrWj8RA",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/QWr0P86v90i9pI2LrWj8RA",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Wd_itKmetEiCWw_nTkwRAA",
+  "Created": "2026-11-03T07:59:40.3403497Z",
+  "Updated": "2026-11-03T08:00:03.8698735Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

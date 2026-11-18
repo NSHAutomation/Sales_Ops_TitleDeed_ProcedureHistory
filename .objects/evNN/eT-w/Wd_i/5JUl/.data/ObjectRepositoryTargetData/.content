@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dEIOHNRUv0mOe0z9GCDQhA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama.my.salesforce.com/500VH00001QrkVUYAZ" DesignTimeRectangle="384, 356, 565, 14" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='DIV' rowName='Approval Status' /&gt;" Guid="d586d129-b4e4-4c2d-8a75-283e37c64680" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Salesforce*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="1bbe988ebcada0d69237f7a41588b62f.jpg" xmlns="">0ZHhbl-XI-0udCKhztw-mCg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Upload here",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "nD2amMwQWEup5guiiCXtsw",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/nD2amMwQWEup5guiiCXtsw",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/j3CyeEKoXkCUqBO6j0KGTw",
+  "Created": "2026-11-04T10:23:30.4521979Z",
+  "Updated": "2026-11-04T10:23:30.4521979Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

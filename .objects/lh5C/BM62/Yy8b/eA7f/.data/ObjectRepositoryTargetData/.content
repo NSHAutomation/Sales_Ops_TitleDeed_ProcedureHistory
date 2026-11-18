@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MgaKMZHAjEWhdeRKyNfc4g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="oqood2.dubailand.gov.ae/en/services/workflows/complete-delayed-sale" DesignTimeRectangle="348, 852, 24, 25" ElementType="CheckBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='I confirm that all information and documents submitted are accur*' role='check box' /&gt;" Guid="0a83a991-26c9-4171-abac-9bc476b42282" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" SelectionStrategy="AA" Version="V6" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="fdc0e1a94a4b89ccd4c575f79fa7a4d9.jpg" xmlns="">0yeEhE0IHh0iePRAMXlH6Fw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Check</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

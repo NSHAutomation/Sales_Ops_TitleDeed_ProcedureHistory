@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RvShqw3uT0e6dFkZm9LRgA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama.my.salesforce.com/500VH00001QrkVUYAZ" DesignTimeRectangle="388, 477, 177, 20" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" Guid="486711a3-7ac2-46b1-9027-3bbfedaa04cf" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Salesforce*' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="266, 477, 98, 12" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl tag='SPAN' aaname='Procedure Number' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Procedure Number' /&gt;" Guid="7e158774-2d49-4e4e-bcf1-45d641e6694c" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a9ef727e2b7ac9826e3046b16f9d57b3.jpg" xmlns="">0KiAoftgFgUetz2uNwVzYqg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

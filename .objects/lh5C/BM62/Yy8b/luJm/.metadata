@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Services",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "luJmJ3SCFUe_GJnzqfVUcQ",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/luJmJ3SCFUe_GJnzqfVUcQ",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-02T08:48:30.0519799Z",
+  "Updated": "2026-11-02T08:48:30.0519799Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

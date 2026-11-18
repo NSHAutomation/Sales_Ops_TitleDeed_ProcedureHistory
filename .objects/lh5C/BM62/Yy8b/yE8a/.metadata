@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Enquiry",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "yE8aEWVWl0O11uT5o6561w",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/yE8aEWVWl0O11uT5o6561w",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-05T06:21:16.4933714Z",
+  "Updated": "2026-11-05T06:21:16.4933714Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

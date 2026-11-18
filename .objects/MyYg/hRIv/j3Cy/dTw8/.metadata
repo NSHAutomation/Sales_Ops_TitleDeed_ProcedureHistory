@@ -1,0 +1,13 @@
+﻿{
+  "Name": "TEXTAREA Procedure Numner",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "dTw8fGs580K5ZhmO8PZVZw",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/dTw8fGs580K5ZhmO8PZVZw",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/j3CyeEKoXkCUqBO6j0KGTw",
+  "Created": "2026-11-04T10:23:02.8990942Z",
+  "Updated": "2026-11-04T10:23:02.8990942Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

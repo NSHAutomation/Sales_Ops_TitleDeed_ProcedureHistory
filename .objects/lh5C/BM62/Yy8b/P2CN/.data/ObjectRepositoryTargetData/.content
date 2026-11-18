@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jxjdTFbKV0aUpxNKVG8B9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dubailand.gov.ae/en/MyDLD" DesignTimeRectangle="1377, 655, 215, 48" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl aaname='Go to Account' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' tag='BUTTON' /&gt;" Guid="38b77b02-b9e6-43d3-b714-54cddfdb220d" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="480, 654, 267, 30" ElementType="Text" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl aaname='Initial Registration (OQOOD 2.0)' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' tag='DIV' check:innerText='Initial Registration (OQOOD 2.0)' /&gt;" Guid="501a992e-1c5b-4238-929c-f77f67a26cd2" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e21e7c0e0da1628b78d49c8ec66de702.jpg" xmlns="">0Q5VCssRTIEaUwtKXBC_-QA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

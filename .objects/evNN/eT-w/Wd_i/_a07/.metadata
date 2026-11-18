@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Case is already assigne…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "_a07xlFAQkGuKCt4ABpwLQ",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/_a07xlFAQkGuKCt4ABpwLQ",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Wd_itKmetEiCWw_nTkwRAA",
+  "Created": "2026-11-04T08:01:39.0365075Z",
+  "Updated": "2026-11-04T08:01:39.0365075Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5OBgR6aSx0CoPdqgWOLsbw" Reference="8BpuFSLbfU-l7uzrMDPDhA/N5ykHg-LEkedEOcSmfBmhg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="oqood2.dubailand.gov.ae/en/property/467807587" DesignTimeRectangle="1806, 567, 32, 32" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="[String.Format(&quot;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-label='Download Documents' tableRow='{0}' tag='BUTTON' type='button' /&gt;&quot;,completeDelayedSellIdx.ToString)]" Guid="64b679ed-a441-42f2-80df-f9f5b0dbe461" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="fffcf0c25c28c83aa7735e06b8645adb.jpg" xmlns="">0MMzHXiNKdUm1WPAwNsI8Rw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Joint Owner Birth Date Birth Date",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "O4VnXTY_Wk2xkJoA5oCpEQ",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/O4VnXTY_Wk2xkJoA5oCpEQ",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Wd_itKmetEiCWw_nTkwRAA",
+  "Created": "2026-11-03T08:06:08.6581056Z",
+  "Updated": "2026-11-03T08:06:55.3004981Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

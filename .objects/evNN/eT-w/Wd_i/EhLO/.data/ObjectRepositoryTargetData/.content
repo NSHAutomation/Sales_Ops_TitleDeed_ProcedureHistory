@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QlYvxRl0ZESljf00HWIz5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama.my.salesforce.com/001VH000007HSyd" DesignTimeRectangle="1308, 738, 565, 14" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl class='detailList' matching:class='fuzzy' fuzzylevel:class='0.0' tag='TABLE' /&gt;&lt;webctrl tag='DIV' aaname='*' /&gt;" Guid="2f90c51c-f7aa-4e72-9c02-69bd6f7a8716" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Salesforce*' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="965, 735, 333, 23" ElementType="Text" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl aaname='Passport No.' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' tag='TD' check:innerText='Passport No.' /&gt;" Guid="e8115cba-af37-4b69-b0f2-f161125a9098" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="592a1ba47b810aa19df903aca8ca9e63.jpg" xmlns="">0XPUpZudJ9EaGFyI6rL8bUQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

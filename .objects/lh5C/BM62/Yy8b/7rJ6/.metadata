@@ -1,0 +1,17 @@
+﻿{
+  "Name": "TABLE-Procedure History",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "7rJ6X5U2REW2lqlBdBHoaw",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/7rJ6X5U2REW2lqlBdBHoaw",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-05T06:32:40.9792839Z",
+  "Updated": "2026-11-05T06:33:00.0440309Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

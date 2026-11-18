@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Select Noqoodi for all …",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "FvWLId_Gaku9bUr6bqgIqw",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/FvWLId_Gaku9bUr6bqgIqw",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-02T13:11:03.4377355Z",
+  "Updated": "2026-11-02T13:11:03.4377355Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

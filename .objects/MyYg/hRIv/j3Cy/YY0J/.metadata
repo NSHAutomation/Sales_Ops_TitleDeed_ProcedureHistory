@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Milestone",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "YY0J1GvkrU-gqa258l6E6g",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/YY0J1GvkrU-gqa258l6E6g",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/j3CyeEKoXkCUqBO6j0KGTw",
+  "Created": "2026-11-04T10:22:39.6210872Z",
+  "Updated": "2026-11-04T10:22:39.6210872Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

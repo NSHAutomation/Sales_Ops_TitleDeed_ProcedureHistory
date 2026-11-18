@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INITIAL CONTRACT OF SALE",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "vhEd2BJD_EGyCzozg_M8qA",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/vhEd2BJD_EGyCzozg_M8qA",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-05T06:58:18.9354852Z",
+  "Updated": "2026-11-05T06:58:18.9354852Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

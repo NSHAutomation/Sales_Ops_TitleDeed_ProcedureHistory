@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="r-63GoXJIEyZmw2VpLWuHw" Reference="8BpuFSLbfU-l7uzrMDPDhA/haEqHZIImkOZMdh2afwSrA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama.my.salesforce.com/500VH00001QrkVUYAZ" DesignTimeRectangle="384, 477, 565, 14" ElementVisibilityArgument="Interactive" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl class='detailList' matching:class='fuzzy' fuzzylevel:class='0.0' tag='TABLE' /&gt;&lt;webctrl tag='DIV' rowName='Procedure Number*' /&gt;" Guid="3e797ed1-1c8b-4fef-9fb0-f980903dd55f" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Salesforce*' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="266, 477, 98, 12" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl class='detailList' matching:class='fuzzy' fuzzylevel:class='0.0' tag='TABLE' /&gt;&lt;webctrl tag='SPAN' aaname='Procedure Number' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Procedure Number' /&gt;" Guid="f87973cd-092a-4a61-9d50-325cf8d90b10" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1d1cf4db3bfa21af82ea14293b77149c.jpg" xmlns="">0IBlc9Ys-g0OezGkt3GhonA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="q1gnm_3M90uJ_svFWBHjXA" Reference="8BpuFSLbfU-l7uzrMDPDhA/rfmRRtJCxEyJmM_aYbua-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama--c.vf.force.com/apex/CreateMilestone" DesignTimeRectangle="888, 267, 108, 18" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='submit' aaname='Generate Milestone' /&gt;" Guid="88ea6404-1c73-4804-9a4d-e599efe22ae9" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Salesforce - Unlimited Edition*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="6b26b7ae309bed402ead5fd6a0b0675f.jpg" xmlns="">0epgc3KpHn0eZMfknmAt4Rw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

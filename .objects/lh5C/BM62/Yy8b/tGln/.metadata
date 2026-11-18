@@ -1,0 +1,17 @@
+﻿{
+  "Name": "INPUT Search-ProjectName",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "tGlnHfh4zUSuxG9lB7p_HA",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/tGlnHfh4zUSuxG9lB7p_HA",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-02T10:02:43.9336081Z",
+  "Updated": "2026-11-02T10:03:09.2903561Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

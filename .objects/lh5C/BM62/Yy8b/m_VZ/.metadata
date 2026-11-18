@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Select Unit",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "m_VZQ0JJ6kOlo2tujORoSQ",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/m_VZQ0JJ6kOlo2tujORoSQ",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-02T12:02:34.2505577Z",
+  "Updated": "2026-11-02T12:03:05.0590284Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

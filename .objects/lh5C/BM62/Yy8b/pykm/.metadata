@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Search Buildings",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "pykm4Ljrn0evXaC-BpirWQ",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/pykm4Ljrn0evXaC-BpirWQ",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-02T11:22:00.3885684Z",
+  "Updated": "2026-11-02T11:22:00.3885684Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

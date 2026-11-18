@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Start Service-Delayed  Sell Complete",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "ql6psDvoiUOHlUb0H0NFRw",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/ql6psDvoiUOHlUb0H0NFRw",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-02T08:52:06.7995862Z",
+  "Updated": "2026-11-02T08:53:06.5517815Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

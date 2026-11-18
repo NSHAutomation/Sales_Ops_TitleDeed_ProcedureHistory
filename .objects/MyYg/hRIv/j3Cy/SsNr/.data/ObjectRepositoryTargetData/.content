@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t4gqbym_R0C5u_xsiDIEyw" Reference="8BpuFSLbfU-l7uzrMDPDhA/SsNr7nzI6km-o-F9a6TZUQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama--c.vf.force.com/apex/CreateMilestone" DesignTimeRectangle="784, 347, 253, 21" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl type='file' tag='INPUT' /&gt;" Guid="4c3610ed-db4b-41a7-a7ee-0cc69a36fb93" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Salesforce - Unlimited Edition*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="f1ca5ccf06af465c3e3049be0e9c2d44.jpg" xmlns="">0U0TB6s0CWEuaqXEEyNt87g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

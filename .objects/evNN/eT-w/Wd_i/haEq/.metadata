@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Click-Procedure Number",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "haEqHZIImkOZMdh2afwSrA",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/haEqHZIImkOZMdh2afwSrA",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Wd_itKmetEiCWw_nTkwRAA",
+  "Created": "2026-11-04T08:06:25.438239Z",
+  "Updated": "2026-11-04T09:19:20.2911758Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

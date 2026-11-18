@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Status",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "DzeH8Bm85kCPG6GKl-zd1g",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/DzeH8Bm85kCPG6GKl-zd1g",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/j3CyeEKoXkCUqBO6j0KGTw",
+  "Created": "2026-11-04T10:22:48.4689502Z",
+  "Updated": "2026-11-04T10:22:48.4689502Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

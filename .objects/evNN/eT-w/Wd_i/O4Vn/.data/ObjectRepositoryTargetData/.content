@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lXdvL90iG02S7jaLjS5kag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama.my.salesforce.com/001VH000007HSyd" DesignTimeRectangle="1308, 706, 565, 14" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl class='detailList' matching:class='fuzzy' fuzzylevel:class='0.0' tag='TABLE' /&gt;&lt;webctrl tag='DIV' aaname='*' /&gt;" Guid="a6d00fcd-2808-427e-aa93-8eacfa330ef6" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Person Account: Mr. Eamaan Azhar Arain ~ Salesforce - Unlimited Edition' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="965, 703, 333, 21" ElementType="Text" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl aaname='Birth Date' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' tag='TD' check:innerText='Birth Date' /&gt;" Guid="26b7d8dc-fe08-4797-8042-9a45fe9de909" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a29979214834ebd4cd6ec1e15668f092.jpg" xmlns="">0JJvwkedVWUSa1Ql9mjmhMA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

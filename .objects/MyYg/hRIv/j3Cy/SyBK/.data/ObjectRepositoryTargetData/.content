@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fvlhOlUqrEqJbD3qws5_ew" Reference="8BpuFSLbfU-l7uzrMDPDhA/SyBKGJ4H1UyMM8wal7jkMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama.my.salesforce.com/006Hq00001WnvhPIAR" DesignTimeRectangle="1239, 408, 34, 18" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl role='push button' text='Save' /&gt;" Guid="410dec3c-685f-45a6-96e8-7adf84aaa191" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='msedge.exe' title='*Salesforce*' /&gt;" SearchSteps="Selector" SelectionStrategy="AA" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
+      <imageRef attrName="InformativeScreenshot" originalValue="ebc74f86b1d26959b20ba7bf57bf2202.jpg" xmlns="">0A_qLVTDKO0GojaMWnK1ZOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

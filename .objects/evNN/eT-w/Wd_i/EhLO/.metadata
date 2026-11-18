@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Joint Owner Passport No.",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "EhLOVwQN-EG1EnjA9Irv7g",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/EhLOVwQN-EG1EnjA9Irv7g",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Wd_itKmetEiCWw_nTkwRAA",
+  "Created": "2026-11-03T07:56:34.1768078Z",
+  "Updated": "2026-11-03T07:59:58.8283974Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

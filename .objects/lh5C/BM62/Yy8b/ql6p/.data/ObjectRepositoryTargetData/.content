@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="airCeHLZEEyhXkJj30_s1A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="oqood2.dubailand.gov.ae/en/services/eqdldwlq5x3z3e8hho8o054u" DesignTimeRectangle="860, 720, 108, 40" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl aaname='Start Service' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' tag='BUTTON' check:innerText='Start Service' /&gt;" Guid="c5a69d4e-0e5c-4998-89fa-f79a06e79b3a" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="860, 608, 457, 20" ElementType="Text" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl aaname='Delayed Sale Completion' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' tag='P' check:innerText='Delayed Sale Completion' /&gt;" Guid="9adb8a01-5a9b-415e-a1f0-1388d724a6a4" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e8a6aa0cdf7ee69da5134bffe409803f.jpg" xmlns="">02kPHfCI-KEW4wXD4TG6AEA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

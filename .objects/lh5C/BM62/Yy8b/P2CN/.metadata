@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Go to Account",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "P2CNI9UFdEecKaIkJuY4TQ",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/P2CNI9UFdEecKaIkJuY4TQ",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-02T08:56:30.3960866Z",
+  "Updated": "2026-11-02T08:56:30.3960866Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

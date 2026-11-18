@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fKS9CxUhlUapFd6Zy0nqbw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nshama--c.vf.force.com/apex/CreateMilestone" DesignTimeRectangle="0, 0, 1936, 1056" Guid="081ff735-ab48-4af8-a8a0-7f64c42e9ab8" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Salesforce - Unlimited Edition and 1 more page - Work - Microsof*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4294e8938c26e5078e2fd0cf622bc4ec.jpg" xmlns="">0oyRZRH0eM0SiwJuuaoopow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">WindowOperations</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

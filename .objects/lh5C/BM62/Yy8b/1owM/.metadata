@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Submit application",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "1owMen_Rk0m2qNVmp3HFGg",
+  "Reference": "8BpuFSLbfU-l7uzrMDPDhA/1owMen_Rk0m2qNVmp3HFGg",
+  "ParentRef": "8BpuFSLbfU-l7uzrMDPDhA/Yy8b5o8U9UWjO9cog5WzaQ",
+  "Created": "2026-11-04T07:34:46.6721046Z",
+  "Updated": "2026-11-04T07:34:46.6721046Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
