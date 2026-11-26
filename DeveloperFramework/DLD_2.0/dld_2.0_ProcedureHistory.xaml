@@ -141,7 +141,7 @@
       <AssemblyReference>System.IO.FileSystem.DriveInfo</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="dld_2_0_ProcedureHistory" sap:VirtualizedContainerService.HintSize="1654,2404" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="dld_2_0_ProcedureHistory" sap:VirtualizedContainerService.HintSize="1597,6769" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Name="dt_ProcedureHistory" />
       <Variable x:TypeArguments="x:Int32" Default="1" Name="completeDelayedSellIdx" />
@@ -159,33 +159,33 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="Sequence-Procedure History" sap:VirtualizedContainerService.HintSize="650,2381" sap2010:WorkflowViewState.IdRef="Sequence_5">
+    <Sequence DisplayName="Sequence-Procedure History" sap:VirtualizedContainerService.HintSize="650,6746" sap2010:WorkflowViewState.IdRef="Sequence_5">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <TryCatch DisplayName="Try Catch-Procedure History" sap:VirtualizedContainerService.HintSize="616,2298" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+      <TryCatch DisplayName="Try Catch-Procedure History" sap:VirtualizedContainerService.HintSize="616,6663" sap2010:WorkflowViewState.IdRef="TryCatch_1">
         <TryCatch.Try>
-          <Sequence DisplayName="Try" sap:VirtualizedContainerService.HintSize="548,1678" sap2010:WorkflowViewState.IdRef="Sequence_3">
+          <Sequence DisplayName="Try" sap:VirtualizedContainerService.HintSize="594,6043" sap2010:WorkflowViewState.IdRef="Sequence_3">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <uix:NApplicationCard AttachMode="ByInstance" DisplayName="DLD 2.0" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="514,1618" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V2">
+            <uix:NApplicationCard AttachMode="ByInstance" DisplayName="DLD 2.0" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="560,5983" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V2">
               <uix:NApplicationCard.Body>
                 <ActivityAction x:TypeArguments="x:Object">
                   <ActivityAction.Argument>
                     <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
                   </ActivityAction.Argument>
-                  <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="512,1423" sap2010:WorkflowViewState.IdRef="Sequence_2">
+                  <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="558,5788" sap2010:WorkflowViewState.IdRef="Sequence_2">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <uix:NClick ActivateBefore="True" ClickType="Single" CursorMotionType="[UiPath.UIAutomationNext.Enums.CursorMotionType.Smooth]" DisplayName="Click 'Enquiry'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="478,57" sap2010:WorkflowViewState.IdRef="NClick_1" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
+                    <uix:NClick ActivateBefore="True" ClickType="Single" CursorMotionType="[UiPath.UIAutomationNext.Enums.CursorMotionType.Smooth]" DisplayName="Click 'Enquiry'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,57" sap2010:WorkflowViewState.IdRef="NClick_1" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
                       <uix:NClick.Target>
                         <uix:TargetAnchorable BrowserURL="oqood2.dubailand.gov.ae/en/services" ContentHash="bu31PDGk-ECSg8uXOeKvew" DesignTimeRectangle="16, 455, 240, 32" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Enquiry' tag='A' /&gt;" Guid="a9984581-5803-4a61-83de-d50e62264ec4" InformativeScreenshot="afe46e11df852d64a579e309877d80f1.jpg" IsResponsive="True" Reference="8BpuFSLbfU-l7uzrMDPDhA/yE8aEWVWl0O11uT5o6561w" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]" />
                       </uix:NClick.Target>
@@ -196,7 +196,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </uix:NClick>
-                    <uix:NClick ActivateBefore="True" ClickType="Single" CursorMotionType="[UiPath.UIAutomationNext.Enums.CursorMotionType.Smooth]" DisplayName="Click 'Select Project'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="478,57" sap2010:WorkflowViewState.IdRef="NClick_14" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
+                    <uix:NClick ActivateBefore="True" ClickType="Single" CursorMotionType="[UiPath.UIAutomationNext.Enums.CursorMotionType.Smooth]" DisplayName="Click 'Select Project'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,57" sap2010:WorkflowViewState.IdRef="NClick_14" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
                       <uix:NClick.Target>
                         <uix:TargetAnchorable BrowserURL="oqood2.dubailand.gov.ae/en/services/workflows/complete-delayed-sale" ContentHash="QuJV93yO3ESMFl9TjkqWfw" DesignTimeRectangle="348, 545, 234, 40" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Select Project' tag='BUTTON' type='button' /&gt;" Guid="faaecd87-ef37-4d67-b107-61c2524f0afa" InformativeScreenshot="790bc89a0351160052e959464a08e412.jpg" Reference="8BpuFSLbfU-l7uzrMDPDhA/92_0PtbAWk6d_3bO5-yfyQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete" />
                       </uix:NClick.Target>
@@ -207,7 +207,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </uix:NClick>
-                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'INPUT Search-ProjectName'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="478,57" sap2010:WorkflowViewState.IdRef="NTypeInto_9" InteractionMode="HardwareEvents" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Text="[string.Format(&quot;{0}[k(enter)]&quot;, in_TransactionItem(&quot;DLD Building Name&quot;).ToString)]" Version="V5">
+                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'INPUT Search-ProjectName'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,57" sap2010:WorkflowViewState.IdRef="NTypeInto_9" InteractionMode="HardwareEvents" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Text="[string.Format(&quot;{0}[k(enter)]&quot;, in_TransactionItem(&quot;DLD Building Name&quot;).ToString)]" Version="V5">
                       <uix:NTypeInto.Target>
                         <uix:TargetAnchorable BrowserURL="oqood2.dubailand.gov.ae/en/services/workflows/complete-delayed-sale" ContentHash="nuTN8lJLYUW2zlStUxr7_Q" DesignTimeRectangle="385, 590, 184, 40" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" Guid="85b36bb4-d559-4b45-b003-7187528b6c1f" InformativeScreenshot="a88a4319bdc7ff7bf72f8fa98b52e6f6.jpg" IsResponsive="True" Reference="8BpuFSLbfU-l7uzrMDPDhA/tGlnHfh4zUSuxG9lB7p_HA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete" />
                       </uix:NTypeInto.Target>
@@ -218,7 +218,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </uix:NTypeInto>
-                    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="478,57" sap2010:WorkflowViewState.IdRef="CommentOut_2">
+                    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="524,57" sap2010:WorkflowViewState.IdRef="CommentOut_2">
                       <ui:CommentOut.Body>
                         <Sequence DisplayName="Ignored activities" sap:VirtualizedContainerService.HintSize="684,314" sap2010:WorkflowViewState.IdRef="Sequence_26">
                           <sap:WorkflowViewStateService.ViewState>
@@ -554,7 +554,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </ui:CommentOut>
-                    <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Search Buildings'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="478,57" sap2010:WorkflowViewState.IdRef="NClick_15" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
+                    <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Search Buildings'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,57" sap2010:WorkflowViewState.IdRef="NClick_15" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
                       <uix:NClick.Target>
                         <uix:TargetAnchorable BrowserURL="oqood2.dubailand.gov.ae/en/services/workflows/complete-delayed-sale" ContentHash="FW5wBZWLrkejRbAq7l3Xpw" DesignTimeRectangle="848, 489, 233, 40" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Search Buildings' tag='BUTTON' type='button' /&gt;" Guid="0d2f64eb-31ec-490f-b9fa-de53a2798bb6" InformativeScreenshot="2d14951588440c803b2a39064d210758.jpg" IsResponsive="True" Reference="8BpuFSLbfU-l7uzrMDPDhA/pykm4Ljrn0evXaC-BpirWQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete" />
                       </uix:NClick.Target>
@@ -565,7 +565,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </uix:NClick>
-                    <Assign DisplayName="Assign-Building Name" sap:VirtualizedContainerService.HintSize="478,175" sap2010:WorkflowViewState.IdRef="Assign_11">
+                    <Assign DisplayName="Assign-Building Name" sap:VirtualizedContainerService.HintSize="524,175" sap2010:WorkflowViewState.IdRef="Assign_11">
                       <Assign.To>
                         <OutArgument x:TypeArguments="x:String">[buildingName]</OutArgument>
                       </Assign.To>
@@ -573,7 +573,7 @@
                         <InArgument x:TypeArguments="x:String">[If(in_TransactionItem("DLD Building Sub Name").ToString = "", in_TransactionItem("Building Name").ToString,in_TransactionItem("DLD Building Sub Name").ToString)]</InArgument>
                       </Assign.Value>
                     </Assign>
-                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'INPUT Search-ProjectName'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="478,246" sap2010:WorkflowViewState.IdRef="NTypeInto_10" InteractionMode="HardwareEvents" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Text="[string.Format(&quot;{0}[k(enter)]&quot;, buildingName)]" Version="V5">
+                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'INPUT Search-ProjectName'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,246" sap2010:WorkflowViewState.IdRef="NTypeInto_10" InteractionMode="HardwareEvents" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Text="[string.Format(&quot;{0}[k(enter)]&quot;, buildingName)]" Version="V5">
                       <uix:NTypeInto.Target>
                         <uix:TargetAnchorable BrowserURL="oqood2.dubailand.gov.ae/en/services/workflows/complete-delayed-sale" ContentHash="nuTN8lJLYUW2zlStUxr7_Q" DesignTimeRectangle="385, 590, 184, 40" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" Guid="85b36bb4-d559-4b45-b003-7187528b6c1f" InformativeScreenshot="a88a4319bdc7ff7bf72f8fa98b52e6f6.jpg" IsResponsive="True" Reference="8BpuFSLbfU-l7uzrMDPDhA/tGlnHfh4zUSuxG9lB7p_HA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete" />
                       </uix:NTypeInto.Target>
@@ -584,7 +584,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </uix:NTypeInto>
-                    <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Unit Number'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="478,57" sap2010:WorkflowViewState.IdRef="NClick_4" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
+                    <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Unit Number'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,57" sap2010:WorkflowViewState.IdRef="NClick_4" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
                       <uix:NClick.Target>
                         <uix:TargetAnchorable BrowserURL="oqood2.dubailand.gov.ae/en/services/workflows/complete-delayed-sale" ContentHash="5KXetW0OlUeqd9mUiJ2l3A" DesignTimeRectangle="1097, 489, 234, 40" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Unit Number' tag='BUTTON' type='button' /&gt;" Guid="27db629d-fde7-4baa-b359-5225ecd2ac6c" InformativeScreenshot="da9678e456db551c8976c3166bd2f0b3.jpg" IsResponsive="True" Reference="8BpuFSLbfU-l7uzrMDPDhA/-wLsjGPcFUakY1JApurGpw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete" />
                       </uix:NClick.Target>
@@ -595,7 +595,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </uix:NClick>
-                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DelayAfter="2" DisplayName="Type Into 'INPUT Search-Unit'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="478,57" sap2010:WorkflowViewState.IdRef="NTypeInto_3" InteractionMode="HardwareEvents" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Text="[string.Format(&quot;{0}[k(enter)]&quot;, in_TransactionItem(&quot;Unit No.&quot;).ToString.Split(&quot;-&quot;c).Last()+&quot; *&quot;)]" Version="V5">
+                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DelayAfter="2" DisplayName="Type Into 'INPUT Search-Unit'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,57" sap2010:WorkflowViewState.IdRef="NTypeInto_3" InteractionMode="HardwareEvents" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Text="[string.Format(&quot;{0}[k(enter)]&quot;, in_TransactionItem(&quot;Unit No.&quot;).ToString.Split(&quot;-&quot;c).Last()+&quot; *&quot;)]" Version="V5">
                       <uix:NTypeInto.Target>
                         <uix:TargetAnchorable BrowserURL="oqood2.dubailand.gov.ae/en/services/workflows/complete-delayed-sale" ContentHash="nuTN8lJLYUW2zlStUxr7_Q" DesignTimeRectangle="385, 590, 184, 40" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" Guid="85b36bb4-d559-4b45-b003-7187528b6c1f" InformativeScreenshot="a88a4319bdc7ff7bf72f8fa98b52e6f6.jpg" IsResponsive="True" Reference="8BpuFSLbfU-l7uzrMDPDhA/tGlnHfh4zUSuxG9lB7p_HA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete" />
                       </uix:NTypeInto.Target>
@@ -606,7 +606,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </uix:NTypeInto>
-                    <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="1" DisplayName="Click 'Table Data Procedure History'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="478,57" sap2010:WorkflowViewState.IdRef="NClick_5" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
+                    <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="1" DisplayName="Click 'Table Data Procedure History'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,57" sap2010:WorkflowViewState.IdRef="NClick_5" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
                       <uix:NClick.Target>
                         <uix:TargetAnchorable BrowserURL="oqood2.dubailand.gov.ae/en/property-enquiry" ContentHash="LDPluPWemECPe5hg2qTWFA" DesignTimeRectangle="330, 619, 219, 45" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='TD' /&gt;" Guid="05be2591-3e9e-49f8-9368-0010398a631e" InformativeScreenshot="0d3a87ab17ed51efe2e220b53a630805.jpg" IsResponsive="True" Reference="8BpuFSLbfU-l7uzrMDPDhA/3-WoyNHBjk63520AI10hkg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete" />
                       </uix:NClick.Target>
@@ -617,7 +617,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </uix:NClick>
-                    <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Procedure History'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="478,57" sap2010:WorkflowViewState.IdRef="NClick_6" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
+                    <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Procedure History'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,57" sap2010:WorkflowViewState.IdRef="NClick_6" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
                       <uix:NClick.Target>
                         <uix:TargetAnchorable BrowserURL="oqood2.dubailand.gov.ae/en/property/467807587" ContentHash="hK9YzHI530WFWvmt21S4SA" DesignTimeRectangle="577, 355, 118, 24" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Procedure History' tag='P' /&gt;" Guid="526a12cf-e138-49a2-a1bf-fcc57d530f1a" InformativeScreenshot="f56c29cc505d4b8babf446f0567b16e4.jpg" IsResponsive="True" Reference="8BpuFSLbfU-l7uzrMDPDhA/Z7V3w4ZliU-9Py3kJasHWQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Complete" />
                       </uix:NClick.Target>
@@ -628,7 +628,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </uix:NClick>
-                    <ui:MultipleAssign DisplayName="Assign project name and score from current data row" sap:VirtualizedContainerService.HintSize="478,149" sap2010:WorkflowViewState.IdRef="MultipleAssign_4">
+                    <ui:MultipleAssign DisplayName="Assign project name and score from current data row" sap:VirtualizedContainerService.HintSize="524,149" sap2010:WorkflowViewState.IdRef="MultipleAssign_4">
                       <ui:MultipleAssign.AssignOperations>
                         <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
                           <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_6">
@@ -642,7 +642,7 @@
                         </scg:List>
                       </ui:MultipleAssign.AssignOperations>
                     </ui:MultipleAssign>
-                    <uix:NExtractDataGeneric x:TypeArguments="sd:DataTable" ContinueOnError="True" DisplayName="Extract Table Data 'TABLE-Procedure History'" ExtractDataSettings="&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table' AddCvHeader='true' IsScrollEnabled='false'&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Request Number.' ReferenceIdx='0' Name='Request Number.'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Date' ReferenceIdx='1' Name='Date'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Type' ReferenceIdx='2' Name='Type'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Tabu Procedure Number' ReferenceIdx='3' Name='Tabu Procedure Number'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Worth Value' ReferenceIdx='4' Name='Worth Value'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Source' ReferenceIdx='5' Name='Source'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Status' ReferenceIdx='6' Name='Status'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column-7' ReferenceIdx='7' Name='Column-7'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&lt;/Table&gt;" ExtractMetadata="&lt;extract-table get_columns_name='1' get_empty_columns='1' columns_name_source='Longest'&gt;&lt;column name='Request Number.' attr='fulltext' /&gt;&lt;column name='Date' attr='fulltext' /&gt;&lt;column name='Type' attr='fulltext' /&gt;&lt;column name='Tabu Procedure Number' attr='fulltext' /&gt;&lt;column name='Worth Value' attr='fulltext' /&gt;&lt;column name='Source' attr='fulltext' /&gt;&lt;column name='Status' attr='fulltext' /&gt;&lt;column name='Column-7' attr='fulltext' /&gt;&lt;/extract-table&gt;" ExtractedData="[dt_ProcedureHistory]" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="478,57" sap2010:WorkflowViewState.IdRef="NExtractDataGeneric`1_1" InteractionMode="DebuggerApi" LimitExtractionTo="None" MaximumResults="0" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
+                    <uix:NExtractDataGeneric x:TypeArguments="sd:DataTable" ContinueOnError="True" DisplayName="Extract Table Data 'TABLE-Procedure History'" ExtractDataSettings="&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table' AddCvHeader='true' IsScrollEnabled='false'&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Request Number.' ReferenceIdx='0' Name='Request Number.'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Date' ReferenceIdx='1' Name='Date'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Type' ReferenceIdx='2' Name='Type'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Tabu Procedure Number' ReferenceIdx='3' Name='Tabu Procedure Number'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Worth Value' ReferenceIdx='4' Name='Worth Value'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Source' ReferenceIdx='5' Name='Source'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Status' ReferenceIdx='6' Name='Status'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column-7' ReferenceIdx='7' Name='Column-7'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&lt;/Table&gt;" ExtractMetadata="&lt;extract-table get_columns_name='1' get_empty_columns='1' columns_name_source='Longest'&gt;&lt;column name='Request Number.' attr='fulltext' /&gt;&lt;column name='Date' attr='fulltext' /&gt;&lt;column name='Type' attr='fulltext' /&gt;&lt;column name='Tabu Procedure Number' attr='fulltext' /&gt;&lt;column name='Worth Value' attr='fulltext' /&gt;&lt;column name='Source' attr='fulltext' /&gt;&lt;column name='Status' attr='fulltext' /&gt;&lt;column name='Column-7' attr='fulltext' /&gt;&lt;/extract-table&gt;" ExtractedData="[dt_ProcedureHistory]" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,57" sap2010:WorkflowViewState.IdRef="NExtractDataGeneric`1_1" InteractionMode="DebuggerApi" LimitExtractionTo="None" MaximumResults="0" ScopeIdentifier="fc6a314b-2073-4790-b25c-97e8d454bada" Version="V5">
                       <uix:NExtractDataGeneric.Target>
                         <uix:TargetAnchorable BrowserURL="https://oqood2.dubailand.gov.ae/en/property/467807587?tab=procedure-history" ContentHash="b1kyXiETp0iE_hpbRLxSHw" DesignTimeRectangle="338, 502, 1516, 113" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;" Guid="11759cdb-0e8a-4760-bca6-b09ec53d7c4f" InformativeScreenshot="100e4879ded35e06ffab37b41a63b398.jpg" IsResponsive="True" Reference="8BpuFSLbfU-l7uzrMDPDhA/7rJ6X5U2REW2lqlBdBHoaw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='OQood' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]" />
                       </uix:NExtractDataGeneric.Target>
@@ -654,7 +654,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </uix:NExtractDataGeneric>
-                    <Assign DisplayName="Assign-Is Title Deed Is Generated" sap:VirtualizedContainerService.HintSize="478,175" sap2010:WorkflowViewState.IdRef="Assign_1">
+                    <Assign DisplayName="Assign-Is Title Deed Is Generated" sap:VirtualizedContainerService.HintSize="524,175" sap2010:WorkflowViewState.IdRef="Assign_1">
                       <Assign.To>
                         <OutArgument x:TypeArguments="x:Boolean">[out_is_TitleDeedGenerated]</OutArgument>
                       </Assign.To>
@@ -662,10 +662,10 @@
                         <InArgument x:TypeArguments="x:Boolean">[dt_ProcedureHistory.AsEnumerable().Any(Function(r) r("Type").ToString().IndexOf("complete delayed sale", StringComparison.OrdinalIgnoreCase) &gt;= 0 AndAlso r("Status").ToString().Trim().Equals("completed", StringComparison.OrdinalIgnoreCase)AndAlso r("Source").ToString().Trim().Equals("Oqood2", StringComparison.OrdinalIgnoreCase))]</InArgument>
                       </Assign.Value>
                     </Assign>
-                    <If Condition="[out_is_TitleDeedGenerated]" DisplayName="If-Is Title Deed Generated" sap:VirtualizedContainerService.HintSize="478,48" sap2010:WorkflowViewState.IdRef="If_1">
+                    <If Condition="[out_is_TitleDeedGenerated]" DisplayName="If-Is Title Deed Generated" sap:VirtualizedContainerService.HintSize="524,4413" sap2010:WorkflowViewState.IdRef="If_1">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           <x:Boolean x:Key="IsPinned">False</x:Boolean>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
@@ -893,7 +893,7 @@
                             </uix:NClick.Target>
                           </uix:NClick>
                           <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="488,175" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Error" Message="[&quot;Title Deed Report Not Generated - &quot;+in_TransactionItem(&quot;Unit No.&quot;).ToString]" />
-                          <ui:SendOutlookMail Account="{x:Null}" Cc="{x:Null}" ContinueOnError="{x:Null}" MailMessage="{x:Null}" ReplyTo="{x:Null}" TimeoutMS="{x:Null}" UseRichTextEditor="{x:Null}" Bcc="[in_Config(&quot;BCCMail&quot;).ToString]" Body="[string.Format(&quot;&lt;P&gt;&lt;SPAN&gt;Greetings,&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Title Deed Report is not yet generated, skipping transaction.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Thank you&lt;/SPAN&gt;&lt;/P&gt;&quot;)]" ConnectionMode="LegacyConfiguration" CreatedAfterSolutionSupport="False" DisplayName="Send Outlook Desktop Mail Message" sap:VirtualizedContainerService.HintSize="488,327" sap2010:WorkflowViewState.IdRef="SendOutlookMail_1" Importance="High" IsBodyHtml="True" IsDraft="False" Sensitivity="Normal" Subject="[&quot;Title Deed Sub Process | Procedure History - Title Deed Report Not Generated | &quot;+in_TransactionItem(&quot;Unit No.&quot;).ToString()]" To="[in_Config(&quot;MailTo&quot;).ToString]" UseISConnection="False">
+                          <ui:SendOutlookMail Cc="{x:Null}" ContinueOnError="{x:Null}" MailMessage="{x:Null}" ReplyTo="{x:Null}" TimeoutMS="{x:Null}" UseRichTextEditor="{x:Null}" Account="[in_Config(&quot;BCCMail&quot;).ToString]" Bcc="[in_Config(&quot;BCCMail&quot;).ToString]" Body="[string.Format(&quot;&lt;P&gt;&lt;SPAN&gt;Greetings,&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Title Deed Report is not yet generated, skipping transaction.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Thank you&lt;/SPAN&gt;&lt;/P&gt;&quot;)]" ConnectionMode="LegacyConfiguration" CreatedAfterSolutionSupport="False" DisplayName="Send Outlook Desktop Mail Message" sap:VirtualizedContainerService.HintSize="488,327" sap2010:WorkflowViewState.IdRef="SendOutlookMail_1" Importance="High" IsBodyHtml="True" IsDraft="False" Sensitivity="Normal" Subject="[&quot;Title Deed Sub Process | Procedure History - Title Deed Report Not Generated | &quot;+in_TransactionItem(&quot;Unit No.&quot;).ToString()]" To="[in_Config(&quot;MailTo&quot;).ToString]" UseISConnection="False">
                             <ui:SendOutlookMail.ConnectionDetailsBackupSlot>
                               <usau:BackupSlot x:TypeArguments="umae:ConnectionDetails" StoredValue="{x:Null}">
                                 <usau:BackupSlot.BackupValues>
@@ -935,14 +935,14 @@
               <ActivityAction.Argument>
                 <DelegateInArgument x:TypeArguments="s:Exception" Name="exception" />
               </ActivityAction.Argument>
-              <Sequence DisplayName="Catch" sap:VirtualizedContainerService.HintSize="548,349" sap2010:WorkflowViewState.IdRef="Sequence_4">
+              <Sequence DisplayName="Catch" sap:VirtualizedContainerService.HintSize="594,349" sap2010:WorkflowViewState.IdRef="Sequence_4">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="514,175" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Error" Message="[exception.Message+Environment.NewLine+exception.Source]" />
-                <Throw Exception="[New SystemException(&quot;Failed To Select Unit Details&quot;)]" sap:VirtualizedContainerService.HintSize="514,114" sap2010:WorkflowViewState.IdRef="Throw_1" />
+                <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="560,175" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Error" Message="[exception.Message+Environment.NewLine+exception.Source]" />
+                <Throw Exception="[New SystemException(&quot;Failed To Select Unit Details&quot;)]" sap:VirtualizedContainerService.HintSize="560,114" sap2010:WorkflowViewState.IdRef="Throw_1" />
               </Sequence>
             </ActivityAction>
           </Catch>
@@ -951,19 +951,19 @@
               <ActivityAction.Argument>
                 <DelegateInArgument x:TypeArguments="ui:BusinessRuleException" Name="exception" />
               </ActivityAction.Argument>
-              <Sequence DisplayName="Catch" sap:VirtualizedContainerService.HintSize="548,108" sap2010:WorkflowViewState.IdRef="Sequence_9">
+              <Sequence DisplayName="Catch" sap:VirtualizedContainerService.HintSize="594,108" sap2010:WorkflowViewState.IdRef="Sequence_9">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <Rethrow sap:VirtualizedContainerService.HintSize="514,48" sap2010:WorkflowViewState.IdRef="Rethrow_1" />
+                <Rethrow sap:VirtualizedContainerService.HintSize="560,48" sap2010:WorkflowViewState.IdRef="Rethrow_1" />
               </Sequence>
             </ActivityAction>
           </Catch>
         </TryCatch.Catches>
         <TryCatch.Finally>
-          <Sequence DisplayName="Finally" sap:VirtualizedContainerService.HintSize="548,25" sap2010:WorkflowViewState.IdRef="Sequence_6">
+          <Sequence DisplayName="Finally" sap:VirtualizedContainerService.HintSize="594,25" sap2010:WorkflowViewState.IdRef="Sequence_6">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">False</x:Boolean>
